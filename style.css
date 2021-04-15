@@ -56,6 +56,12 @@ button
 #btn2{
     text-align: center;
 }
+#btnstop{
+    display:none;
+}
+#btnstop button{
+    background-color: rgb(66,133,244);
+}
 #eye{
     text-align: center;
 }
